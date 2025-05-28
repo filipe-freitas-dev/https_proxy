@@ -39,8 +39,8 @@ A complete corporate HTTP/HTTPS proxy developed in Rust, focused on **security**
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/rust-corporate-proxy.git
-cd rust-corporate-proxy
+git clone https://github.com/filipe-freitas-dev/https_proxy.git
+cd https_proxy
 cargo build --release
 ```
 

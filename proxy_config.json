@@ -1,0 +1,27 @@
+{
+  "bind_address": "127.0.0.1",
+  "port": 8080,
+  "blocked_domains": [
+    "facebook.com",
+    "x.com",
+    "youtube.com",
+    "instagram.com",
+    "tiktok.com",
+    "reddit.com"
+
+  ],
+  "blocked_keywords": [
+    "malware",
+    "virus",
+    "hack",
+    "crack",
+    "torrent"
+  ],
+  "allowed_users": {
+    "admin": "admin123",
+    "user1": "userpass"
+  },
+  "log_file": "proxy_logs.jsonl",
+  "enable_ssl_bump": false,
+  "upstream_proxy": null
+}
